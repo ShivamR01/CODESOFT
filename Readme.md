@@ -1,4 +1,4 @@
-# CodeSoft Internship Tasks Submission
+# CodSoft Internship Tasks Submission
 
 This repository contains the submission of 3 tasks for the CodeSoft Internship. All projects are created using **HTML** and **CSS** with a basic folder structure. Each project is placed in its own directory.
 
@@ -81,5 +81,5 @@ Feel free to explore and customize the files!
 ---
 
 **Submitted By:** Shivam Kumar\
-**Internship Platform:** CodeSoft
+**Internship Platform:** CodSoft
 
